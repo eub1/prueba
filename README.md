@@ -1,4 +1,4 @@
-# Prueba
+# How to use Git
 
 primer texto que commiteo
 otra linea
